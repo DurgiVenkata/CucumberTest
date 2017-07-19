@@ -1,0 +1,7 @@
+	Feature: Test Gmail Log in Feature
+I want to use this template for my feature file
+
+Scenario: Gmail Log in Functionlity
+Given  Loading Selenium WebDriver ChromeDriver
+When  Enter User id and Password and Submit
+Then Login to Gmail Main Page,See The Inbox
