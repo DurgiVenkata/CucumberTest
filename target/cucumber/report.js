@@ -66,7 +66,7 @@ formatter.match({
   "location": "Steps101.I_want_to_open_webdriver_and_connect_to_the_gmail_login_page()"
 });
 formatter.result({
-  "duration": 18820248671,
+  "duration": 16377271204,
   "status": "passed"
 });
 formatter.match({
@@ -79,7 +79,7 @@ formatter.match({
   "location": "Steps101.I_enter_userid_as_and_click_next_button(String)"
 });
 formatter.result({
-  "duration": 3409320214,
+  "duration": 3253539479,
   "status": "passed"
 });
 formatter.match({
@@ -92,15 +92,14 @@ formatter.match({
   "location": "Steps101.I_enter_password_as_and_click_submit_button(String)"
 });
 formatter.result({
-  "duration": 10667402364,
+  "duration": 10684232980,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps101.I_verify_the_inbox()"
 });
 formatter.result({
-  "duration": 13357723954,
-  "error_message": "java.lang.NullPointerException\r\n\tat com.discovery.test.Steps101.I_verify_the_inbox(Steps101.java:46)\r\n\tat ✽.Then I verify the inbox(features\\gmail.feature:10)\r\n",
-  "status": "failed"
+  "duration": 1330013294,
+  "status": "passed"
 });
 });

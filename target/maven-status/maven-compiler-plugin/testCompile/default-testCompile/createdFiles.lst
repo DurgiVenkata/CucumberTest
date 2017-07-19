@@ -1,4 +1,5 @@
-com\discovery\test\GmailLoginSteps.class
-com\discovery\test\Steps102.class
 com\discovery\test\GmailLoginRunnerTest.class
 com\discovery\test\Steps101.class
+com\discovery\test\SambaTest.class
+com\discovery\test\GmailLoginSteps.class
+com\discovery\test\Steps102.class
